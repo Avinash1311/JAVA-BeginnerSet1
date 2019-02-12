@@ -1,3 +1,5 @@
+/**Avinash M
+   Alpha **/
 import java.util.Scanner;
 class Alpha{
 public static void main(String[] qwe){
